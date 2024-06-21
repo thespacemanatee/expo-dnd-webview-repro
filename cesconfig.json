@@ -1,0 +1,28 @@
+{
+  "cesVersion": "2.10.5",
+  "projectName": "expo-dnd-webview-repro",
+  "packages": [
+    {
+      "name": "stylesheet",
+      "type": "styling"
+    }
+  ],
+  "flags": {
+    "noGit": false,
+    "noInstall": false,
+    "overwrite": false,
+    "importAlias": true,
+    "packageManager": "yarn",
+    "eas": false
+  },
+  "packageManager": {
+    "type": "yarn",
+    "version": "1.22.21"
+  },
+  "os": {
+    "type": "Darwin",
+    "platform": "darwin",
+    "arch": "arm64",
+    "kernelVersion": "23.4.0"
+  }
+}
